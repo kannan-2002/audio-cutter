@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mantine/core": "latest",
+    "@mantine/hooks": "latest",
+    "@tabler/icons-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "wavesurfer.js": "^7.8.6"
+  }
+}
